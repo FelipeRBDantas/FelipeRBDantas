@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente, trabalho com Desenvolvimento de Software Backend PHP
 - 📚 Estudando Engenharia de Testes de Software e demais temas do Laravel 8
-- 🎓 Formado em Análise e Deenvolvimento de Sistemas (UNIP)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
 - 🌱 Interesses: PHP, Design Patterns, SOLID e Clean Code, DevOps e Engenharia de Testes de Software
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
