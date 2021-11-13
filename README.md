@@ -1,5 +1,7 @@
 ### Olá, eu sou o Felipe Dantas, mas pode me chamar de Dantas 👋
 
+<img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
+
 - 🔭 Atualmente, trabalho com Desenvolvimento de Software Backend PHP
 - 📚 Estudando Engenharia de Testes de Software e demais temas do Laravel 8
 - 🎓 Formado em Análise e Deenvolvimento de Sistemas (UNIP)
@@ -39,9 +41,7 @@
   <img align="center" alt="Felipe-Dantas-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Felipe-Dantas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Felipe-Dantas-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <div align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;">
-    ![Screenshot](profile.png)
-  </div>
+</div>
 </div>
   
 ##
