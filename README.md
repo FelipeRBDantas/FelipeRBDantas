@@ -2,10 +2,10 @@
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-- 🔭 Atualmente, trabalho com Desenvolvimento de Software Backend PHP.
-- 📚 Estudando Arquitetura com PHP.
+- 🔭 Atualmente, busco oportunidade na área de Engenheiro Analista de Testes/QA.
+- 📚 Estudando Engenharia de Testes de Software.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Interesses: Desenvolvimento de Software
+- 🌱 Interesses: Testes de Software
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
