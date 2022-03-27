@@ -2,10 +2,10 @@
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-- 🔭 Atualmente, busco oportunidade para Desenvolvedor Fullstack PHP ou Analista de Testes
-- 📚 Estudando Desenvolvimento Web Fullstack e Testes de Software
+- 🔭 Atualmente, busco oportunidade para Desenvolvedor Frontend
+- 📚 Estudando Desenvolvimento Web Frontend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Interesses: Desenvolvimento Web Fullstack, Testes de Software
+- 🌱 Interesses: Desenvolvimento Web Frontend, Fullstack e Testes de Software
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
