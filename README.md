@@ -2,7 +2,7 @@
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-- 🔭 Atualmente, busco oportunidade para Desenvolvedor Frontend
+- 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno
 - 📚 Estudando Desenvolvimento Web Frontend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
 - 🌱 Interesses: Desenvolvimento Web Frontend, Fullstack e Testes de Software
