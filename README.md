@@ -5,7 +5,7 @@
 - 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno
 - 📚 Estudando Desenvolvimento Web Frontend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Interesses: Desenvolvimento Web Frontend, Fullstack e Testes de Software
+- 🌱 Interesses: Desenvolvimento Web Frontend e UX/UI Design
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
