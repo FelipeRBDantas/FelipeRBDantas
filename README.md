@@ -5,7 +5,7 @@
 - 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno e Mobile com Flutter/Dart
 - 📚 Estudando Desenvolvimento Web Frontend e Mobile
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Interesses: Desenvolvimento Web Frontend e UX/UI Design
+- 🌱 Interesses: Desenvolvimento Web Frontend, Mobile e UX/UI Design
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
