@@ -2,8 +2,8 @@
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-- 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno
-- 📚 Estudando Desenvolvimento Web Frontend e UX/UI Design
+- 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno e Mobile com Flutter/Dart
+- 📚 Estudando Desenvolvimento Web Frontend e Mobile
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
 - 🌱 Interesses: Desenvolvimento Web Frontend e UX/UI Design
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
