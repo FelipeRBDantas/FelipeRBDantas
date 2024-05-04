@@ -1,3 +1,5 @@
+![banner_3](https://github.com/FelipeRBDantas/FelipeRBDantas/assets/47251032/61e5ab2e-a3cb-496e-bc85-70e36e4cccfd)
+
 ### Olá, eu sou o Felipe Dantas, mas pode me chamar de Dantas 👋
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
