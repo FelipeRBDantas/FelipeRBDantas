@@ -1,4 +1,4 @@
-![banner_p b](https://github.com/FelipeRBDantas/FelipeRBDantas/assets/47251032/32d4cd50-735f-4d03-922d-2a7923f390dd)
+![banner_p b_v2](https://github.com/FelipeRBDantas/FelipeRBDantas/assets/47251032/281a01e9-683e-4cbb-bf65-0161b8b1ea5f)
 
 ### Olá, eu sou o Felipe Dantas, mas pode me chamar de Dantas 👋
 
