@@ -4,10 +4,10 @@
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-- 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno
+- 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno (ReactJS)
 - 📚 Estudando Desenvolvimento Web Fullstack com foco em Frontend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Interesses: Desenvolvimento Web Frontend, Mobile e UX/UI Design
+- 🌱 Interesses: Desenvolvimento Web, Mobile e UX/UI Design
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
