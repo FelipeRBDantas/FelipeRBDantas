@@ -1,6 +1,6 @@
 ![banner_p b](https://github.com/FelipeRBDantas/FelipeRBDantas/assets/47251032/834c16d6-f600-4e44-b9b9-72509454a9e1)
 
-### Olá, eu sou o Felipe Dantas, mas pode me chamar de Lipe 👋
+### Olá, eu sou o Felipe Dantas, mas pode me chamar de Dantas 👋
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
