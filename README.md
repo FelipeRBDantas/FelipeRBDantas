@@ -1,4 +1,4 @@
-![my-linkedin-banner-2](https://github.com/user-attachments/assets/6e146665-507f-475e-a4b4-ecc4d127facb)
+![my-linkedin-banner-3](https://github.com/user-attachments/assets/65bccdb9-99dd-42e3-a83f-5d2933b92bd8)
 
 ### Olá, eu sou o Felipe Dantas, mas pode me chamar de Dantas 👋
 
