@@ -1,13 +1,14 @@
-![cover](https://github.com/user-attachments/assets/a9c42be9-e69e-417b-886b-1756127ae746)
+<img width="1358" height="419" alt="cover" src="https://github.com/user-attachments/assets/0d5e84fb-7fa6-4688-a938-e1d5c9922ee7" />
 
 ### Olá, eu sou o Felipe Dantas, mas pode me chamar de Dantas 👋
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
 - 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno
-- 📚 Estudando Desenvolvimento Frontend e Backend Java Engineer
+- 📚 Estudando Desenvolvimento Frontend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🌱 Interesses: Desenvolvimento Frontend, Desenvolvimento Backend e UX/UI Design
+- 🎓 Pós graduando em Frontend Engineer (Impacta)
+- 🌱 Interesses: Desenvolvimento Frontend, Arquitetura de Sistemas e IA
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
