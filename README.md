@@ -8,6 +8,7 @@
 - 📚 Estudando Desenvolvimento Frontend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
 - 🎓 Pós graduando em Frontend Engineer (Impacta)
+- 🏫 Criador do Educa 360° - Aprendizado adaptativo
 - 🌱 Interesses: Desenvolvimento Frontend, Arquitetura de Sistemas e IA
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
