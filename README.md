@@ -4,12 +4,11 @@
 
 <img align="right" alt="Felipe-Dantas-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-- 🔭 Atualmente, trabalho como Desenvolvedor Frontend Pleno
-- 📚 Estudando Desenvolvimento Frontend
+- 🔭 Atualmente, Founder & CEO na Elev | Desenvolvedor Frontend Pleno
+- 📚 Estudando IA, Backend, Frontend e Mobile
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP)
-- 🎓 Pós graduando em Frontend Engineer (Impacta)
-- 🏫 Criador do Educa 360° - Aprendizado adaptativo
-- 🌱 Interesses: Desenvolvimento Frontend, Arquitetura de Sistemas e IA
+- 🏫 Criador do Educa 360° - Conecta
+- 🌱 Interesses: Desenvolvimento Frontend, Backend, Mobile, Arquitetura de Sistemas e IA
 - 📫 Contate-me no e-mail: feliperbdantas@outlook.com
 - 😄 Pronomes: ele/dele
 
